@@ -125,3 +125,20 @@ This project is provided under the [MIT License](LICENSE.md). You are free to us
 ---
 
 **Enjoy exploring the CPPI strategy with this Monte Carlo simulation tool!**
+
+
+
+## Ref. 
+
+- Albert Dorador ; Constrained Max Drawdown: a Fast and Robust Portfolio Optimization Approach
+- OLGA BIEDOVA and VICTORIA STEBLOVSKAYA;  MULTIPLIER OPTIMIZATION FOR CONSTANT PROPORTION PORTFOLIO INSURANCE (CPPI) STRATEGY
+- Paulo José Martins Jorge da Silva; PORTFOLIO INSURANCE STRATEGIES FRIEND ORFOE?
+- Daniel Mantilla-García Research Associate, EDHEC-Risk Institute  Head of Research & Development, Koris International ; Growth Optimal Portfolio Insurance for Long-Term Investors
+- Introduction to Portfolio Construction and Analysis with Python [https://www.coursera.org/learn/introduction-portfolio-construction-python?utm_source=gg&utm_medium=sem&utm_campaign=b2c_apac_coursera-plus_coursera_ftcof_subscription_arte_apr-24_dr_geo-set-3-multi_sem_rsa_gads_lg-all&utm_content=b2c&campaignid=21165289867&adgroupid=163685947107&device=c&keyword=coursera&matchtype=e&network=g&devicemodel=&adpostion=&creativeid=696974723648&hide_mobile_promo=&gad_source=1&gclid=CjwKCAiAmfq6BhAsEiwAX1jsZ7y5czJmondJ1ybgRVOHfMBjPHu1OZ0PnCTRwRZraKgxArnB7qUW6RoCwvUQAvD_BwE]
+
+
+
+
+
+
+
