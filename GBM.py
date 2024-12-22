@@ -16,6 +16,7 @@ def gbm(n_years = 10, n_scenarios=1000, mu=0.07, sigma=0.15, steps_per_year=12, 
     # Derive per-step Model Parameters from User Specifications
     dt = 1/steps_per_year
     n_steps = int(n_years*steps_per_year) + 1
+    np.random.seed(42)  # Replace 42 with any integer seed of your choice
     # the standard way ...
     # rets_plus_1 = np.random.normal(loc=mu*dt+1, scale=sigma*np.sqrt(dt), size=(n_steps, n_scenarios))
     # without discretization error ...
