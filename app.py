@@ -192,7 +192,7 @@ with st.form("cppi_form"):
     with col_cppi_1:
         n_scenarios = st.slider(
             "Number of Scenarios", 
-            1, 2000, 500, 5, 
+            1, 2000000, 500, 5, 
             help="Number of simulation paths to run."
         )
         floor = st.slider(
