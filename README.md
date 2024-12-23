@@ -61,7 +61,7 @@ Adjust or add other packages if your code requires them.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/cppi-monte-carlo-simulation.git
+   git clone [https://github.com/nutdnuy/CPPI_2.git]
    cd cppi-monte-carlo-simulation
    ```
 
