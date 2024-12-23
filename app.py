@@ -235,6 +235,9 @@ if submitted:
 
     # Display the results as metrics
     st.markdown("### Key Results")
+    st.markdown("### Risky asset")
+    st.markdown((1 - floor ) *m)
+  
     col_res_1, col_res_2 = st.columns(2)
     col_res_1.metric("Probability of Failure", f"{p_fail:.2%}", help="The chance of ending below the set floor.")
     col_res_2.metric("Expected Shortfall", f"${e_shortfall:,.2f}", help="The average shortfall amount if failure occurs.")
